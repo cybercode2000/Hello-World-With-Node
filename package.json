@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-with-node",
+  "version": "1.0.0",
+  "description": "first node app @ Task by wejapa",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybercode2000/Hello-World-With-Node.git"
+  },
+  "author": "cybercode2000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybercode2000/Hello-World-With-Node/issues"
+  },
+  "homepage": "https://github.com/cybercode2000/Hello-World-With-Node#readme"
+}
